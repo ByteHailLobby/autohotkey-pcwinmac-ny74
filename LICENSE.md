@@ -1,4 +1,4 @@
-# 
+# Ligero AutoHotkey extensiones para Mac OS | Nativo AutoHotkey extensiones para PC Windows. Con lanzamiento rápido y sistema de complementos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
